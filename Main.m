@@ -1,4 +1,4 @@
-input_sequence = 'ATCGATCGATCGATCGACTGACTGATCGATCGA';   % input dna sequence
+input_sequence = 'GTAGCGCTAAAAGTCCATAGCACGTGCATCCCAACGTGGCGTGCGTACAGCTTGACCACCGCTTCACGCTAAGGTGCTGGCCACATGCTAAATTGATGCG';   % input dna sequence
 
 symbols = ["A", "G", "C", "T"];
 numeric_value = [1, 2 , 3 , 4];
